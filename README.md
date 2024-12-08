@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Anahit</h1>
-<h3 align="center">A passionate Informatics and Applied Mathematics student</h3>
+<h3 align="center">An Informatics and Applied Mathematics student</h3>
 
 - 🌱 I’m currently learning **C++, Linux, Data Structures**
 
